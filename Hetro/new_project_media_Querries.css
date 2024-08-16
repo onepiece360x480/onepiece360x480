@@ -1,0 +1,417 @@
+@media screen and (max-width:1280px) {
+    .image1{margin-right: 50px;}
+    .image5{
+        top: 1650px;
+        width: 100px;
+        height: 100px;
+        left: 600px;
+    }
+    .button19{
+        margin-top: -240px;
+    }
+    .button20{
+        margin-top: -240px;
+    }
+
+}
+
+@media screen and (max-width:1024px ){
+    .div{
+        height: 5%;
+    }
+    .logo{
+        margin-left: 50px;
+    }
+    .nav{
+        margin-left: 400px;
+    }
+    .nav li{
+        padding-left: 20px;
+        cursor: pointer;
+        
+    }
+ .div1{
+    height: 27%;
+    overflow-x: hidden;
+ }
+ .content_text1{
+    margin-left: 50px;
+    font-size: 30px;
+    padding-top: 50px;
+ }
+ .content_text2{
+    margin-left: 50px;
+    font-size: 13px;
+ }
+ .image1{
+    margin-right: -10px;
+    height: 300;
+    width: 260;
+ }
+.button1{
+    margin-left: 50px;
+    padding: 30px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+}
+.button2{
+    margin-left: 0px;
+    padding: 17px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: -37;
+}
+
+.div2{
+    height: 10%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.content_text3{
+    margin-top: 20px;
+}
+.content_text4{
+    font-size: 14px;
+    margin-top: -5px;
+}
+.div3{
+    height: 27%;
+    overflow-x: hidden;
+}
+.image2{
+    height: 300;
+    width: 260;
+    margin-left: 0px;
+}
+ .content_text5{
+    margin-left: 50px;
+    font-size: 30px;
+    padding-top: 50px;
+ }
+ .content_text6{
+    margin-left: 50px;
+    font-size: 13px;
+}
+.button3{
+    
+    padding: 30px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+}
+.button4{
+    margin-left: 0px;
+    padding: 17px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.div4{
+    height: 20%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+.image5{
+   display: none;
+}
+.content_text12{
+    padding: 90px;
+    padding-left: 160px;
+    font-size: 25px;
+    padding-top: 60px;
+}
+.content_text13{
+display: none;
+}
+
+.button19{
+    margin-left: 200px;
+    margin-top: -120px;
+    padding: 30px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+
+}
+.button20{
+    left: 370px;
+    padding: 17px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: -120.5px;
+}
+
+.div5{
+    overflow-x: hidden;
+    height: 27%;
+    margin-top: 0;
+    width: 100%;
+}
+.content_text7{
+    margin-left: 50px;
+    font-size: 30px;
+    padding-top: 50px;
+ }
+ .content_text8{
+    margin-left: 50px;
+    font-size: 13px;
+ }
+ .image1{
+    margin-right: -10px;
+    height: 300;
+    width: 260;
+ }
+.button5{
+    margin-left: 50px;
+    padding: 30px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+}
+.button6{
+    margin-left: 0px;
+    padding: 17px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: -37;
+}
+.div6{
+    overflow-x: hidden;
+    height: 14%;
+    width: 100%;
+}
+.content_text15{
+    margin-top: 30px;
+}
+.search{
+    padding: 5px;
+    margin-left: 160px;
+    padding-right: 40px;
+}
+.button8{
+    padding: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.div7{
+    overflow-x: hidden;
+    height: 10%;
+}
+.list{
+    padding-top: 20px;
+    margin-left: 200px;
+    margin-right: 100px;
+    font-size: 14px;
+}
+.content_text17{
+    font-size: 18px;
+    margin-left: 50px;
+     margin-top: 23px;
+}
+.last_text{
+    display: none;
+}
+.social1{
+    display: none;
+}
+.social2{
+    display: none;
+}
+.social3{
+    display: none;
+}
+.social4{
+    display: none;
+} 
+}
+
+@media screen and (max-width:600px ){
+
+    .nav{
+        margin-left: 60px;
+        font-size: small;
+    }
+.logo{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.div1{
+width: 100%;
+overflow-x: hidden;
+}
+
+.content_text1{
+    font-size: large;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.content_text2{
+    font-size: 13px;
+    margin-left: 20px;
+}
+
+.button1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-left: 20px;
+}
+.button2{
+    margin-left: 150px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: -33px;
+
+}
+.div2{
+    height: 15%;
+    overflow-x: hidden;
+}
+.content_text3{
+    font-size: 17px;
+    margin-top: 20px;
+}
+.content_text4{
+    font-size: 12px;
+}
+
+.image2{
+    display: none;
+}
+.div3{
+    height: 28%;
+    overflow-y: hidden;
+}
+.content_text5{
+    font-size: 17px;
+    padding-top: 20px;
+    margin-left: 20px;
+
+}
+
+.content_text6{
+    font-size: 13px;
+    margin-left: 20px;
+}
+
+.button3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-left: 20px;
+}
+.button4{
+    margin-left: 150px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: -33px;
+
+}
+
+.image1{
+    display: none;
+}
+.div4{
+    overflow-x: hidden;
+
+}
+.content_text12{
+    font-size: 17px;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.button19{
+    margin-top: -100px;
+    margin-left: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+
+}
+.button20{
+    left: 200px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: -100px;
+
+
+}
+
+
+.div5{
+    width: 100%;
+    height: 30%;
+    overflow-x: hidden;
+
+    }
+    
+    .content_text7{
+        font-size: large;
+        margin-left: 20px;
+        padding-top: 20px;
+    }
+    .content_text8{
+        font-size: 13px;
+        margin-left: 20px;
+    }
+    
+    .button5{
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 7px;
+        padding-right: 7px;
+        margin-left: 20px;
+    }
+    .button6{
+        margin-left: 150px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 7px;
+        padding-right: 7px;
+        margin-top: -33px;
+    
+    }
+    .div6{
+        height: 20%;
+    }
+    .search{
+        margin-left: 50px;
+   
+    }
+    .div7{
+        height: 12%;
+        overflow-x: hidden;
+    }
+    .content_text17{
+        font-size: small;
+        margin-left: 20px;
+    }
+    .list{
+        margin-left: 90px;
+        margin-right: 10px;
+    }
+
+
+
+}
+@media screen and (max-width:320px){
+    .logo{
+        margin-left: 10px;
+        font-size: 15px;
+        margin-top: 0px;
+    }
+    .nav{
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+
+}
+/* 1366 - 768 */
